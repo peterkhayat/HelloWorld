@@ -21,10 +21,11 @@ The following **optional** features are implemented:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented features:
-<a href="https://www.loom.com/share/66a8060140e14b8fa31a30805610a1b2">Video Walkthrough</a>
+<img src='https://i.imgur.com/AUIPoCd.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
+https://i.imgur.com/AUIPoCd.gif
 <!-- Replace this with whatever GIF tool you used! -->
-GIF created with Loom
+GIF created with ScreenToGif
 <!-- Recommended tools:
 [Kap](https://getkap.co/) for macOS
 [ScreenToGif](https://www.screentogif.com/) for Windows
