@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Hello World</string>
+    <string name="peter_intro">Hello World, My name is Peter. I am very passionate about developing Android apps and hope to get accepted into this course. Also a huge Star Wars fan</string>
+    <string name="button_text">Say hello!</string>
+</resources>
